@@ -1,21 +1,41 @@
-# Web Research Projects
+# Web Research Projects Portfolio
 
-This repository demonstrates structured online research, source tracking, fact-checking, and concise evidence-based reporting.
+This repository showcases practical skills in online research, information gathering, source verification, fact-checking, and research reporting.
 
-## Contents
-- `templates/research-brief-template.md` — define a research question and scope.
-- `templates/source-log-template.csv` — track sources, dates, and verification.
-- `templates/source-evaluation-checklist.md` — assess relevance and reliability.
-- `examples/sample-research-outline.md` — illustrative outline using placeholders, not factual findings.
-- `case-study/CASE-STUDY.md` — document a completed project.
+## Skills Demonstrated
 
-## Research workflow
-1. Define the question, scope, geography, and date range.
-2. Search for primary and authoritative sources first.
-3. Record publisher, title, URL, publication date, and access date.
-4. Cross-check important claims with independent sources where possible.
-5. Separate sourced facts from analysis or opinion.
-6. Note missing information, contradictions, and limitations.
-7. Write a concise summary with traceable citations/links.
+- Online research and information gathering
+- Source identification and evaluation
+- Information verification and fact-checking
+- Research documentation
+- Evidence-based reporting
+- Data organization and analysis
 
-Do not publish private research assignments, paywalled extracts, or confidential client instructions.
+## Repository Contents
+
+| File | Description |
+|---|---|
+| `research-brief-template.md` | Research planning template |
+| `source-evaluation-checklist.md` | Source reliability checklist |
+| `source-log-template.csv` | Research source tracking |
+| `sample-research-outline.md` | Illustrative research outline |
+| `CASE-STUDY.md` | Project case study template |
+
+## Research Workflow
+
+1. Define the research question and objectives.
+2. Identify relevant and reliable sources.
+3. Collect and organize information.
+4. Verify important findings.
+5. Record source details and access dates.
+6. Identify gaps and limitations.
+7. Prepare a structured research report.
+
+## Data Integrity
+
+Research examples should use publicly available or authorized information. Claims should be supported by traceable sources, with facts distinguished from opinions and assumptions.
+
+## Contact
+
+- LinkedIn: [Emmanuel Mutua](https://www.linkedin.com/in/emmanuel-mutua-4140833b3)
+- Location: Kenya
